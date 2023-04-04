@@ -10,7 +10,4 @@
 
 
 
-
-
-https://user-images.githubusercontent.com/44307351/229872084-d46e77ee-381c-4106-b065-4279abec4b3e.mp4
-
+![RECONOCEDOR FACIAL CON FACE-API - Personal_ Microsoft_ Edge 2023-04-04 12-30-22 (online-video-cutter com)](https://user-images.githubusercontent.com/44307351/229877634-29f9e83b-501e-43ca-b74c-75e123df0b23.gif)
